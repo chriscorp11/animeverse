@@ -1,31 +1,19 @@
-Multiverse by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Animeverse
 
+Welcome to **Animeverse**, a stunning one-page gallery showcasing a curated portfolio of the greatest anime on this planet. Enjoy a sleek design with a fully functional lightbox and a unique, reusable panel system. Dive into the world of anime and explore our carefully selected collection that celebrates the very best of this art form.
 
-Say hello to Multiverse, a slick, one-page gallery design with a fully functional lightbox
-(courtesy of my Poptrox plugin for jQuery) and a custom, reusable "panel" system (click the
-"About" button in the lower right to see what I mean). Had a ton of fun putting this one
-together, and I hope you have as much fun working with it :)
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Design
+**Chris Aung**
 
-(* = not included)
+## Firm
+**Chris Corp.**
 
-AJ
-aj@lkn.io | @ajlkn
+---
 
+© 2024 Chris Corp. All Rights Reserved.
 
-Credits:
+_Disclaimer: All content provided on this site is for informational purposes only. Chris Corp. makes no representations as to the accuracy or completeness of any information on this site or found by following any link on this site. Chris Corp. will not be liable for any errors or omissions in this information nor for the availability of this information. Chris Corp. will not be liable for any losses, injuries, or damages from the display or use of this information._
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Poptrox (github.com/ajlkn/jquery.poptrox)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+For more information, please contact: [info@chriscorp.com](mailto:info@chriscorp.com)
